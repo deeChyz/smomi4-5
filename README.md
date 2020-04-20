@@ -89,21 +89,21 @@ a) Пошаговое затухание
 
 Ссылка на код: https://github.com/deeChyz/smomi4-5/blob/master/5thStage/1stage.py
 
-b) 
+b) Экспоненциальное затухание
 
 
 ![Image description](https://github.com/deeChyz/smomi4-5/blob/master/5lab/2stage.jpg)
 
 Ссылка на код: https://github.com/deeChyz/smomi4-5/blob/master/5thStage/2stage.py
 
-c)
+c) Разогрев + пошаговое затухание
 
 
 ![Image description](https://github.com/deeChyz/smomi4-5/blob/master/5lab/3stage.jpg)
 
 Ссылка на код: https://github.com/deeChyz/smomi4-5/blob/master/5thStage/3stage.py
 
-d)
+d) Разогрев + экспонинциальное затухание
 
 
 ![Image description](https://github.com/deeChyz/smomi4-5/blob/master/5lab/4stage.jpg)
