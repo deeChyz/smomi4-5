@@ -25,6 +25,11 @@
 
 ![Image description](https://github.com/deeChyz/smomi4-5/blob/master/2ndStage/resB.jpg)
 
+
+'40 градусов' + resize
+
+![Image description](https://github.com/deeChyz/smomi4-5/blob/master/2ndStage/resC.jpg)
+
 Ссылка на код: https://github.com/deeChyz/smomi4-5/blob/master/2ndStage/train.py
 
 
@@ -51,11 +56,15 @@ d) Аугментация с помощью вырезки случайного 
 
 ![Image description](https://github.com/deeChyz/smomi4-5/blob/master/4thStage/resA.jpg)
 
-
 Способ и параметры: '' tf.image.random_crop(image, size=[168, 168, 3], seed=None, name=None) ''
 
-
 ![Image description](https://github.com/deeChyz/smomi4-5/blob/master/4thStage/resB.jpg)
+
+
+Способ и параметры: '' tf.image.random_crop(image, size=[168, 168, 3], seed=None, name=None) & .map(resize)'' 
+
+![Image description](https://github.com/deeChyz/smomi4-5/blob/master/4thStage/resC.jpg)
+
 
 Ссылка на код: https://github.com/deeChyz/smomi4-5/blob/master/4thStage/train.py
 
