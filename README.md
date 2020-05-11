@@ -96,12 +96,20 @@ a) Пошаговое затухание
 
 ![Image description](https://github.com/deeChyz/smomi4-5/blob/master/5lab/1stage.jpg)
 
+With edited initial model
+
+![Image description](https://github.com/deeChyz/smomi4-5/blob/master/5lab/1stageB.jpg)
+
 Ссылка на код: https://github.com/deeChyz/smomi4-5/blob/master/5thStage/1stage.py
 
 b) Экспоненциальное затухание
 
 
 ![Image description](https://github.com/deeChyz/smomi4-5/blob/master/5lab/2stage.jpg)
+
+With edited initial model
+
+![Image description](https://github.com/deeChyz/smomi4-5/blob/master/5lab/2stageB.jpg)
 
 Ссылка на код: https://github.com/deeChyz/smomi4-5/blob/master/5thStage/2stage.py
 
@@ -116,5 +124,9 @@ d) Разогрев + экспонинциальное затухание
 
 
 ![Image description](https://github.com/deeChyz/smomi4-5/blob/master/5lab/4stage.jpg)
+
+With edited initial model
+
+![Image description](https://github.com/deeChyz/smomi4-5/blob/master/5lab/4stageB.jpg)
 
 Ссылка на код: https://github.com/deeChyz/smomi4-5/blob/master/5thStage/4stage.py
